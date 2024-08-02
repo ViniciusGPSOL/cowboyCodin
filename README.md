@@ -10,9 +10,13 @@ Welcome to the GitHub corral of **ViniciusGPSOL**. I'm a coding cowboy riding th
 
 ## 📈 GitHub Stats
 
-![ViniciusGPSOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGPSOL&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGPSOL&theme=dark)
+<div align="center">
+  <a href="https://github.com/ViniciusGPSOL" >
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusGPSOL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/ >
+    <img src="https://github-profile-trophy.vercel.app/?username=MateusNicolodi&theme=algolia&row=2&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+    <br>
+  </a>
+</div>
 
 ## 🏇 How to Send a Smoke Signal
 
@@ -25,4 +29,3 @@ Welcome to the GitHub corral of **ViniciusGPSOL**. I'm a coding cowboy riding th
 - I'm Always up for a high noon duel.
 
 Feel free to roam through my repositories and drop me a line if you wanna chat. Happy coding, partner!
-
